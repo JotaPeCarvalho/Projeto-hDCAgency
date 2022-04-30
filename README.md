@@ -28,29 +28,31 @@ Here are the technologies used in this project.
 
 ![image](https://user-images.githubusercontent.com/91575096/166114391-b1203e6f-d767-4be7-8516-01600cbf96f0.png)
 
-### 3 - Page "Animated information about company stuff"
+### 3 - Page "Our specialties"
+
 ![image](https://user-images.githubusercontent.com/91575096/166114478-9320bbaa-fa00-4ac0-8609-3a001e80501e.png)
 
-### 4 - Page "Our team"
+### 4 - Page "Animated information about company stuff"
 
 ![image](https://user-images.githubusercontent.com/91575096/166114501-61953bb9-9b44-4239-a08b-6286f413d283.png)
 
-### 5 - Page "Do you like challenges?"
+### 5 - Page "Our team"
 
 ![image](https://user-images.githubusercontent.com/91575096/166114541-6083945b-b30f-4d50-b89e-91e732dcf8cf.png)
 
-### 6 - Page "Discover our projects"
+
+### 6 - Page "Do you like challenges?"
 
 ![image](https://user-images.githubusercontent.com/91575096/166114571-00eb2056-3191-4112-b332-9f3921958c3a.png)
 
-### 7 - Page "Stay on top of the news"
+### 7 - Page "Discover our projects"
 
 ![image](https://user-images.githubusercontent.com/91575096/166114593-21dcce73-0d6e-4a3f-bcfa-005dad28e278.png)
 
-### 8 - Page "Contact us"
+### 8 - Page "Stay on top of the news"
 
 ![image](https://user-images.githubusercontent.com/91575096/166114627-072de860-1b9d-42de-9e52-55ad6c12c734.png)
-
+"Contact us"
 ### 9 - Page "Leave us a message"
 
 ![image](https://user-images.githubusercontent.com/91575096/166114724-7ca6842e-a564-42f7-83af-5cdf85460d1f.png)
