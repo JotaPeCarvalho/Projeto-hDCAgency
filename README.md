@@ -79,5 +79,5 @@ Here are the technologies used in this project.
 
   * **João Pedro Carvalho** 
 
-  Please follow github and join us!
+
   Thanks to visiting me and good coding!
